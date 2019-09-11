@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  color: red;
+  /*#2c3e50*/
+  background-color: #ecf0f1 !important;
+}
+
+.navbar-inverse {
+  background: #2c3e50 !important;
+}
+
+a {
+  color: white !important;
+}
